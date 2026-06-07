@@ -11,4 +11,5 @@ SMTP_HOST = "smtp.qq.com"
 SMTP_PORT = 465
 EMAIL_FROM = "your-email@qq.com"
 EMAIL_TO = "your-email@qq.com"
+EMAIL_CC = "friend@example.com"
 EMAIL_AUTH_CODE = "your-smtp-auth-code"
